@@ -1,6 +1,9 @@
 # Env_Config
 
-## VS Code
-
-
-## IntelliJ IDEA
+## IDE
+### IntelliJ IDEA
+### VS Code
+----
+## Web
+### Colab
+### Overleaf
