@@ -3,6 +3,7 @@
 ## IDE
 ### IntelliJ IDEA
 ### VS Code
+### Jupyter
 ----
 ## Web
 ### Colab
